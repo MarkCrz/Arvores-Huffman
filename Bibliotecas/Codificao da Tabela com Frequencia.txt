@@ -1,0 +1,22 @@
+TABELA DE SÍMBOLOS:
+Caractere: u | Codigo: 00000 | Frequencia: 1
+Caractere: g | Codigo: 00001 | Frequencia: 1
+Caractere: r | Codigo: 0001 | Frequencia: 3
+Caractere: m | Codigo: 0010 | Frequencia: 3
+Caractere: t | Codigo: 00110 | Frequencia: 1
+Caractere: p | Codigo: 00111 | Frequencia: 2
+Caractere: o | Codigo: 010 | Frequencia: 7
+Caractere: n | Codigo: 0110 | Frequencia: 4
+Caractere: e | Codigo: 0111 | Frequencia: 4
+Caractere: d | Codigo: 1000 | Frequencia: 4
+Caractere: s | Codigo: 10010 | Frequencia: 2
+Caractere: i | Codigo: 10011 | Frequencia: 2
+Caractere: SPACE | Codigo: 101 | Frequencia: 9
+Caractere: b | Codigo: 11000 | Frequencia: 2
+Caractere: h | Codigo: 110010 | Frequencia: 1
+Caractere: q | Codigo: 110011 | Frequencia: 1
+Caractere: c | Codigo: 1101 | Frequencia: 5
+Caractere: a | Codigo: 111 | Frequencia: 10
+
+CODIFICAÇÃO DE HUFFMAN:
+001111111001010010111000110011011011001001010111001100000011110111101101000111101110101000101010010010000111010111000010101011111101111110001111011000010000100101001101101000010101100001111010011101001100011011110111011111100001111101111
